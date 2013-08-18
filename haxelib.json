@@ -1,0 +1,10 @@
+{
+    "name": "peg",
+    "url": "",
+    "license": "MIT",
+    "tags": ["random", "distribution", "standard"],
+    "description": "PEG parser generator",
+    "version": "0.0.1",
+    "releasenote": "",
+    "contributors": [""]
+}
