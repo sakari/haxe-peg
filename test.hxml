@@ -1,0 +1,7 @@
+# CPP
+-main TestMain
+-cp test
+-lib mlib
+-lib munit
+-D HXCPP_M64
+-cpp bin/test/core/cpp_test

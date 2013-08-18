@@ -5,9 +5,9 @@ rules.
 
 # Testing
 
-The tests use `openfl` and `munit` so you'll need those. Then run
+The tests use `munit` so you'll need that. Then run
 
-    openfl test test.xml cpp
+    haxelib run munit test test.hxml
 
 # License
 
